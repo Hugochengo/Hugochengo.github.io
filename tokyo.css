@@ -302,11 +302,11 @@ opacity: 0.9
 }
 
 img.resize:hover {
-    -moz-transform: scale(2) rotate(0deg);
-    -webkit-transform: scale(2) rotate(0deg);
-    -o-transform: scale(2) rotate(0deg);
-    -ms-transform: scale(2) rotate(0deg);
-    transform: scale(2) rotate(0deg);
+    -moz-transform: scale(1.2) rotate(0deg);
+    -webkit-transform: scale(1.2) rotate(0deg);
+    -o-transform: scale(1.2) rotate(0deg);
+    -ms-transform: scale(1.2) rotate(0deg);
+    transform: scale(1.2) rotate(0deg);
     -webkit-transition: 0.8s;
     -moz-transition: 0.8s;
     -o-transition: 0.8s;
@@ -321,11 +321,11 @@ opacity: 0.9;
 }
 
 img.resize2:hover {
-    -moz-transform: scale(2) rotate(0deg);
-    -webkit-transform: scale(2) rotate(0deg);
-    -o-transform: scale(2) rotate(0deg);
-    -ms-transform: scale(2) rotate(0deg);
-    transform: scale(2) rotate(0deg);
+    -moz-transform: scale(1.2) rotate(0deg);
+    -webkit-transform: scale(1.2) rotate(0deg);
+    -o-transform: scale(1.2) rotate(0deg);
+    -ms-transform: scale(1.2) rotate(0deg);
+    transform: scale(1.2) rotate(0deg);
     -webkit-transition: 0.8s;
     -moz-transition: 0.8s;
     -o-transition: 0.8s;
@@ -442,11 +442,11 @@ header .mainimage-content .mainimage-content-inner p {
    }
 
    .material-icons:hover {
-    -moz-transform: scale(2) rotate(0deg);
-    -webkit-transform: scale(2) rotate(0deg);
-    -o-transform: scale(2) rotate(0deg);
-    -ms-transform: scale(2) rotate(0deg);
-    transform: scale(2) rotate(0deg);
+    -moz-transform: scale(1.2) rotate(0deg);
+    -webkit-transform: scale(1.2) rotate(0deg);
+    -o-transform: scale(1.2) rotate(0deg);
+    -ms-transform: scale(1.2) rotate(0deg);
+    transform: scale(1.2) rotate(0deg);
     -webkit-transition: 0.8s;
     -moz-transition: 0.8s;
     -o-transition: 0.8s;
